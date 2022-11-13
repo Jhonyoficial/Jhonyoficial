@@ -1,0 +1,5 @@
+- 👋 Eu sou Jhony
+- 👀 interesses em fullStack
+- 🌱 Estou aprendento Angular, java e css
+- 💞️ Procuro colaborar com projetos
+- 📫 orbenjhony@gmail.com
