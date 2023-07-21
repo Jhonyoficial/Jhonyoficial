@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Jhonyoficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonyoficial&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonyoficial&layout=compact&langs_count=7&theme=gruvbox&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonyoficial&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyoficial&layout=compact&langs_count=7&theme=gruvbox&locale=pt-br"/>
 </div>
 
 <div style="display: inline_block"><br>
