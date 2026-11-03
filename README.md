@@ -93,7 +93,6 @@ flowchart LR
 <a href="https://www.linkedin.com/in/jhony-orben-0083821b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:orbenjhony@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/jhony_orben"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://wa.me/5546999708354"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <sub>Este README foi escrito em par com um agente. Claro.</sub>
 
